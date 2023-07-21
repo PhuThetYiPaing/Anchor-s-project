@@ -285,7 +285,7 @@ footer .social-links a:hover {
   margin: 180px;
 }
 
-@media (max-width: 760px) {
+@media (max-width: 600px) {
   .logo {
     display: none;
   }
