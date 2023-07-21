@@ -6,7 +6,7 @@
 nav {
   padding: 20px 0;
 }
-.navbar-brand{
+.logo{
   width: 150px;
   height: 41.817px;
   font-size: 26px;
@@ -16,15 +16,6 @@ nav {
 .logo {
   max-height: 80px;
 }
-.nav-link {
-    display: block;
-    padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
-    font-size: var(--bs-nav-link-font-size);
-    font-weight: var(--bs-nav-link-font-weight);
-    color: var(--bs-nav-link-color);
-    text-decoration: none;
-    background: 0 0;
-    border: 0;
 nav li {
   display: inline;
   list-style: none;
